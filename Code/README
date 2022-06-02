@@ -1,0 +1,25 @@
+Proyecto 1- Graficos por Computadoras - ITCR
+
+PARA CORRER EL PROGRAMA: Compile con el comando make en la terminal y luego ejecute el programa con "./proyecto"
+
+FUNCIONAMIENTO DEL PROGRAMA:
+El programa consta de cuatro modos:
+	1. BOTON 1 ->Pintar solo bordes de los poligonos que forman la imagen
+	2. BOTON 2 ->Rellenar los poligonos de las imagenes por Algoritmo de Scanline
+	3. BOTON 3 ->Rellenar los poligonos a traves de una textura predeterminada
+	4. BOTON 4 ->Rellenar los poligonos con distintas texturas predeterminadas
+
+Para estos 4 modos se pueden realizar diferentes operaciones:
+	BOTON X -> Zoom out
+	BOTON Z -> Zoom in
+	BOTON UP -> desplazamiento Arriba de ventana (PAN)
+	BOTON DOWN -> desplazamiento abajo de ventana (PAN)
+	BOTON LEFT -> desplazamiento izquierda de ventana (PAN)
+	BOTON RIGHT-> desplazamiento derecha de ventana (PAN)
+	
+Para volver a los valores predeterminados o "Resetear" se presiona el BOTON R y por ultimo para poder firmar se presiona el BOTON F
+el cual carga una firma predeterminada que es dibujada a traves del metodo de Curvas de Bezier, para usar curvas de Bezier con el mouse 
+se debe presionar el BOTON B.
+	
+	
+
